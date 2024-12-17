@@ -1,7 +1,0 @@
-C:\Users\User\Documents\CSharpExam\Task4 FixTheCode\bin\Debug\Task4 FixTheCode.exe.config
-C:\Users\User\Documents\CSharpExam\Task4 FixTheCode\bin\Debug\Task4 FixTheCode.exe
-C:\Users\User\Documents\CSharpExam\Task4 FixTheCode\bin\Debug\Task4 FixTheCode.pdb
-C:\Users\User\Documents\CSharpExam\Task4 FixTheCode\obj\Debug\Task4 FixTheCode.csproj.AssemblyReference.cache
-C:\Users\User\Documents\CSharpExam\Task4 FixTheCode\obj\Debug\Task4 FixTheCode.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\CSharpExam\Task4 FixTheCode\obj\Debug\Task4 FixTheCode.exe
-C:\Users\User\Documents\CSharpExam\Task4 FixTheCode\obj\Debug\Task4 FixTheCode.pdb
