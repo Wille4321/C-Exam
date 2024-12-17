@@ -1,0 +1,7 @@
+C:\Users\User\Documents\CSharpExam\Task3 ArraysLoopsAndSort\bin\Debug\Task3 ArraysLoopsAndSort.exe.config
+C:\Users\User\Documents\CSharpExam\Task3 ArraysLoopsAndSort\bin\Debug\Task3 ArraysLoopsAndSort.exe
+C:\Users\User\Documents\CSharpExam\Task3 ArraysLoopsAndSort\bin\Debug\Task3 ArraysLoopsAndSort.pdb
+C:\Users\User\Documents\CSharpExam\Task3 ArraysLoopsAndSort\obj\Debug\Task3 ArraysLoopsAndSort.csproj.AssemblyReference.cache
+C:\Users\User\Documents\CSharpExam\Task3 ArraysLoopsAndSort\obj\Debug\Task3 ArraysLoopsAndSort.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSharpExam\Task3 ArraysLoopsAndSort\obj\Debug\Task3 ArraysLoopsAndSort.exe
+C:\Users\User\Documents\CSharpExam\Task3 ArraysLoopsAndSort\obj\Debug\Task3 ArraysLoopsAndSort.pdb

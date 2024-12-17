@@ -1,0 +1,7 @@
+C:\Users\User\Documents\CSharpExam\Task2 PositiveOrNegative\bin\Debug\Task2 PositiveOrNegative.exe.config
+C:\Users\User\Documents\CSharpExam\Task2 PositiveOrNegative\bin\Debug\Task2 PositiveOrNegative.exe
+C:\Users\User\Documents\CSharpExam\Task2 PositiveOrNegative\bin\Debug\Task2 PositiveOrNegative.pdb
+C:\Users\User\Documents\CSharpExam\Task2 PositiveOrNegative\obj\Debug\Task2 PositiveOrNegative.csproj.AssemblyReference.cache
+C:\Users\User\Documents\CSharpExam\Task2 PositiveOrNegative\obj\Debug\Task2 PositiveOrNegative.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSharpExam\Task2 PositiveOrNegative\obj\Debug\Task2 PositiveOrNegative.exe
+C:\Users\User\Documents\CSharpExam\Task2 PositiveOrNegative\obj\Debug\Task2 PositiveOrNegative.pdb
