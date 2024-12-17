@@ -1,0 +1,7 @@
+C:\Users\User\Documents\CSharpExam\Task5 DictionaryWithMenu\bin\Debug\Task5 DictionaryWithMenu.exe.config
+C:\Users\User\Documents\CSharpExam\Task5 DictionaryWithMenu\bin\Debug\Task5 DictionaryWithMenu.exe
+C:\Users\User\Documents\CSharpExam\Task5 DictionaryWithMenu\bin\Debug\Task5 DictionaryWithMenu.pdb
+C:\Users\User\Documents\CSharpExam\Task5 DictionaryWithMenu\obj\Debug\Task5 DictionaryWithMenu.csproj.AssemblyReference.cache
+C:\Users\User\Documents\CSharpExam\Task5 DictionaryWithMenu\obj\Debug\Task5 DictionaryWithMenu.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSharpExam\Task5 DictionaryWithMenu\obj\Debug\Task5 DictionaryWithMenu.exe
+C:\Users\User\Documents\CSharpExam\Task5 DictionaryWithMenu\obj\Debug\Task5 DictionaryWithMenu.pdb

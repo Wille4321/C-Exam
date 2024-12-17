@@ -1,0 +1,7 @@
+C:\Users\User\Documents\CSharpExam\Task1 ConvertAndPrint\bin\Debug\Task1 ConvertAndPrint.exe.config
+C:\Users\User\Documents\CSharpExam\Task1 ConvertAndPrint\bin\Debug\Task1 ConvertAndPrint.exe
+C:\Users\User\Documents\CSharpExam\Task1 ConvertAndPrint\bin\Debug\Task1 ConvertAndPrint.pdb
+C:\Users\User\Documents\CSharpExam\Task1 ConvertAndPrint\obj\Debug\Task1 ConvertAndPrint.csproj.AssemblyReference.cache
+C:\Users\User\Documents\CSharpExam\Task1 ConvertAndPrint\obj\Debug\Task1 ConvertAndPrint.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSharpExam\Task1 ConvertAndPrint\obj\Debug\Task1 ConvertAndPrint.exe
+C:\Users\User\Documents\CSharpExam\Task1 ConvertAndPrint\obj\Debug\Task1 ConvertAndPrint.pdb
